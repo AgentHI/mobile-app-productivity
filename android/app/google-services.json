@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "532380161200",
+    "project_id": "agenthi-ai",
+    "storage_bucket": "agenthi-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532380161200:android:1607a15647684c24cdd775",
+        "android_client_info": {
+          "package_name": "com.agenthi.ai.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532380161200-tmo0q8rq53chsnbm9v1bvb3obq05ki1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agenthi.ai.android",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "532380161200-lbhb9ofkdbk8m513o0jvrcninsgi8ien.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSTMNlRwEjpQQDSGMPXJvQ0zJp3dBrrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532380161200-lbhb9ofkdbk8m513o0jvrcninsgi8ien.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532380161200-v9iltmh1dh8qt47n5tm4jt7ikogcp8qb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agenthi.ai.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
